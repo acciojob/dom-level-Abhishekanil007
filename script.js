@@ -12,4 +12,4 @@ function getDomLevel(element)
 	}
 
 let domlevel = getDomLevel(target);
-alert("The level of the element is: " + domLevel);
+alert("The level of the element is: " + domlevel);
